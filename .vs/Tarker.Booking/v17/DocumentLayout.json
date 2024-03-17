@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D43F582F-0A1D-4E74-BCCE-5D9E002B03F9}|src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj|c:\\rdata\\projects\\.net\\tarker.booking\\src\\tarker.booking.domain\\entities\\user\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43F582F-0A1D-4E74-BCCE-5D9E002B03F9}|src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj|solutionrelative:src\\tarker.booking.domain\\entities\\user\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EDD4EF-E975-449B-AFC7-C38918E936D0}|src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj|c:\\rdata\\projects\\.net\\tarker.booking\\src\\tarker.booking.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2EDD4EF-E975-449B-AFC7-C38918E936D0}|src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj|solutionrelative:src\\tarker.booking.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43F582F-0A1D-4E74-BCCE-5D9E002B03F9}|src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj|c:\\rdata\\projects\\.net\\tarker.booking\\src\\tarker.booking.domain\\enums\\bookingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43F582F-0A1D-4E74-BCCE-5D9E002B03F9}|src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj|solutionrelative:src\\tarker.booking.domain\\enums\\bookingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43F582F-0A1D-4E74-BCCE-5D9E002B03F9}|src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj|c:\\rdata\\projects\\.net\\tarker.booking\\src\\tarker.booking.domain\\entities\\customer\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43F582F-0A1D-4E74-BCCE-5D9E002B03F9}|src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj|solutionrelative:src\\tarker.booking.domain\\entities\\customer\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43F582F-0A1D-4E74-BCCE-5D9E002B03F9}|src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj|c:\\rdata\\projects\\.net\\tarker.booking\\src\\tarker.booking.domain\\entities\\booking\\bookingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43F582F-0A1D-4E74-BCCE-5D9E002B03F9}|src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj|solutionrelative:src\\tarker.booking.domain\\entities\\booking\\bookingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Api\\appsettings.json",
+              "ToolTip": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Api\\appsettings.json",
+              "RelativeToolTip": "src\\Tarker.Booking.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-17T01:19:45.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingType.cs",
+              "DocumentMoniker": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Enums\\BookingType.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Domain\\Enums\\BookingType.cs",
+              "ToolTip": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Enums\\BookingType.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.Domain\\Enums\\BookingType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T00:38:29.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingEntity.cs",
+              "DocumentMoniker": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Entities\\Booking\\BookingEntity.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Domain\\Entities\\Booking\\BookingEntity.cs",
+              "ToolTip": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Entities\\Booking\\BookingEntity.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.Domain\\Entities\\Booking\\BookingEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T00:36:10.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerEntity.cs",
+              "DocumentMoniker": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Entities\\Customer\\CustomerEntity.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Domain\\Entities\\Customer\\CustomerEntity.cs",
+              "ToolTip": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Entities\\Customer\\CustomerEntity.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.Domain\\Entities\\Customer\\CustomerEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T00:34:57.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Entities\\User\\UserEntity.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Domain\\Entities\\User\\UserEntity.cs",
+              "ToolTip": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Entities\\User\\UserEntity.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.Domain\\Entities\\User\\UserEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T00:30:18.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
