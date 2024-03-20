@@ -986,6 +986,30 @@
             "rid": "win"
           }
         }
+      },
+      "Tarker.Booking.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.3",
+          "Tarker.Booking.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Tarker.Booking.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tarker.Booking.Application.dll": {}
+        }
+      },
+      "Tarker.Booking.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Tarker.Booking.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tarker.Booking.Domain.dll": {}
+        }
       }
     }
   },
@@ -2740,11 +2764,23 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Tarker.Booking.Application/1.0.0": {
+      "type": "project",
+      "path": "../Tarker.Booking.Application/Tarker.Booking.Application.csproj",
+      "msbuildProject": "../Tarker.Booking.Application/Tarker.Booking.Application.csproj"
+    },
+    "Tarker.Booking.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Tarker.Booking.Domain/Tarker.Booking.Domain.csproj",
+      "msbuildProject": "../Tarker.Booking.Domain/Tarker.Booking.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.3"
+      "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.3",
+      "Tarker.Booking.Application >= 1.0.0",
+      "Tarker.Booking.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2778,7 +2814,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj": {
+              "projectPath": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj"
+            },
+            "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj": {
+              "projectPath": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

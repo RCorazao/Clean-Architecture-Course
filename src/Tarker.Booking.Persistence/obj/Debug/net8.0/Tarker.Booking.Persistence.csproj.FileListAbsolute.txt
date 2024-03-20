@@ -9,3 +9,9 @@ C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Debug\n
 C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Debug\net8.0\refint\Tarker.Booking.Persistence.dll
 C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Debug\net8.0\Tarker.Booking.Persistence.pdb
 C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Debug\net8.0\ref\Tarker.Booking.Persistence.dll
+C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Persistence\bin\Debug\net8.0\Tarker.Booking.Application.dll
+C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Persistence\bin\Debug\net8.0\Tarker.Booking.Domain.dll
+C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Persistence\bin\Debug\net8.0\Tarker.Booking.Application.pdb
+C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Persistence\bin\Debug\net8.0\Tarker.Booking.Domain.pdb
+C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Debug\net8.0\Tarker.Booking.Persistence.csproj.AssemblyReference.cache
+C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Debug\net8.0\Tarker.B.A9D12A1F.Up2Date

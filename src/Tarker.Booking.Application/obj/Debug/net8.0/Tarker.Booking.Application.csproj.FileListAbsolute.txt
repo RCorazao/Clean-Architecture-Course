@@ -9,3 +9,7 @@ C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\n
 C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\refint\Tarker.Booking.Application.dll
 C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.pdb
 C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\ref\Tarker.Booking.Application.dll
+C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net8.0\Tarker.Booking.Domain.dll
+C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net8.0\Tarker.Booking.Domain.pdb
+C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.csproj.AssemblyReference.cache
+C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.B.B4BD57CB.Up2Date
