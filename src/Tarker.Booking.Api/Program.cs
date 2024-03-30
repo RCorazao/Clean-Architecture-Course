@@ -1,13 +1,20 @@
 using Microsoft.EntityFrameworkCore;
+using Tarker.Booking.Api;
+using Tarker.Booking.Application;
 using Tarker.Booking.Application.Interfaces;
+using Tarker.Booking.Common;
+using Tarker.Booking.External;
+using Tarker.Booking.Persistence;
 using Tarker.Booking.Persistence.DataBase;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddDbContext<DataBaseService>(options =>
-    options.UseSqlServer(builder.Configuration["SQLConnectionString"]));
-
-builder.Services.AddScoped<IDataBaseService, DataBaseService>();
+builder.Services
+    .AddWebApi()
+    .AddCommon()
+    .AddApplication()
+    .AddExternal(builder.Configuration)
+    .AddPersistence(builder.Configuration);
 
 var app = builder.Build();
 

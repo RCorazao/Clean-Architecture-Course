@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tarker.Booking.External")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fca9be0c39bc34665ba9047fdfe80e4db305c034")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c89a2d6f1521c12836226b7064d754cabd406107")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tarker.Booking.External")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tarker.Booking.External")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
