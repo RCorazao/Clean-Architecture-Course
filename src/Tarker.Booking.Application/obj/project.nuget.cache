@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JfkCPyNGxRBqOKYqUmliMAMFWVAkoB2lQccwh8C+BADNCFGHi9UPhMJSFmVra5M/5dahMxnx89RO9biyHn/F9g==",
+  "dgSpecHash": "gIHPMYIXvU/g9xKxv+xLWH5PfoeMr+By8I3EqWOfCBSdsrdidvdUafCIH3eHj6TtujhvjovzJA3MlBIx71ScKw==",
   "success": true,
   "projectFilePath": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

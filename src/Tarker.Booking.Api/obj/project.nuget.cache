@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "yxxuS0eYBcb75wyP2J+4/K0h7zodVacHJMISpZXxB1671JwNuSVERHp+5nB8LbBUjParkKSYFcaZ7qvfQ3keIQ==",
+  "dgSpecHash": "FoJo9qRFDh3gWvI/LbhDDaTBEVoasVsb8aBGzvld3q3yvtZ40bHoB90LdGtX4q1DzqgUdblhurCBTmCHVFz+rQ==",
   "success": true,
   "projectFilePath": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

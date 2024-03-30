@@ -140,3 +140,4 @@ C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\Ta
 C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\Tarker.Booking.External.dll
 C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\Tarker.Booking.Common.pdb
 C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\Tarker.Booking.External.pdb
+C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\AutoMapper.dll

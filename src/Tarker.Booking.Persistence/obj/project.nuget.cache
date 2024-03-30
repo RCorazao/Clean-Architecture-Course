@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7940EttRKbjyIQc4hQB3pyeTjgiRtO3/P7kMxsH5jhphlqunrD4LjXzzHbcFr6xP4TPIrVRukU3YFX8uYQoGfw==",
+  "dgSpecHash": "9xTYBMqOtqHFS2OxGNP+2nz7gM8G+MyDzDgHN/4/Q8zEK9ZzV59WMXdKtOJe/pyINiqatiHtdj/Fp+9SYSXtUA==",
   "success": true,
   "projectFilePath": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

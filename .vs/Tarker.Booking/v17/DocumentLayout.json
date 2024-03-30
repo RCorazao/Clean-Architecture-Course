@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2EDD4EF-E975-449B-AFC7-C38918E936D0}|src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj|c:\\rdata\\projects\\.net\\tarker.booking\\src\\tarker.booking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2EDD4EF-E975-449B-AFC7-C38918E936D0}|src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj|solutionrelative:src\\tarker.booking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D3597254-9417-4EB6-9C2A-76DF0110FC4C}|src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj|c:\\rdata\\projects\\.net\\tarker.booking\\src\\tarker.booking.persistence\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3597254-9417-4EB6-9C2A-76DF0110FC4C}|src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj|solutionrelative:src\\tarker.booking.persistence\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D3597254-9417-4EB6-9C2A-76DF0110FC4C}|src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj|c:\\rdata\\projects\\.net\\tarker.booking\\src\\tarker.booking.persistence\\database\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3597254-9417-4EB6-9C2A-76DF0110FC4C}|src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj|solutionrelative:src\\tarker.booking.persistence\\database\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EDD4EF-E975-449B-AFC7-C38918E936D0}|src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj|c:\\rdata\\projects\\.net\\tarker.booking\\src\\tarker.booking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EDD4EF-E975-449B-AFC7-C38918E936D0}|src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj|solutionrelative:src\\tarker.booking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF8B3B8-D812-4F49-8034-AF37510A1F5B}|src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj|c:\\rdata\\projects\\.net\\tarker.booking\\src\\tarker.booking.application\\database\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF8B3B8-D812-4F49-8034-AF37510A1F5B}|src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj|solutionrelative:src\\tarker.booking.application\\database\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7CF8B3B8-D812-4F49-8034-AF37510A1F5B}|src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj|c:\\rdata\\projects\\.net\\tarker.booking\\src\\tarker.booking.application\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CF8B3B8-D812-4F49-8034-AF37510A1F5B}|src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj|solutionrelative:src\\tarker.booking.application\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF8B3B8-D812-4F49-8034-AF37510A1F5B}|src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj|c:\\rdata\\projects\\.net\\tarker.booking\\src\\tarker.booking.application\\configuration\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF8B3B8-D812-4F49-8034-AF37510A1F5B}|src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj|solutionrelative:src\\tarker.booking.application\\configuration\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112087D1-34EA-4D86-82BA-88714960D4E6}|src\\Tarker.Booking.External\\Tarker.Booking.External.csproj|c:\\rdata\\projects\\.net\\tarker.booking\\src\\tarker.booking.external\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112087D1-34EA-4D86-82BA-88714960D4E6}|src\\Tarker.Booking.External\\Tarker.Booking.External.csproj|solutionrelative:src\\tarker.booking.external\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFD38A36-BB47-434B-BCFD-94E927B408EF}|src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj|c:\\rdata\\projects\\.net\\tarker.booking\\src\\tarker.booking.common\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,46 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2EDD4EF-E975-449B-AFC7-C38918E936D0}|src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj|c:\\rdata\\projects\\.net\\tarker.booking\\src\\tarker.booking.api\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2EDD4EF-E975-449B-AFC7-C38918E936D0}|src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj|solutionrelative:src\\tarker.booking.api\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{112087D1-34EA-4D86-82BA-88714960D4E6}|src\\Tarker.Booking.External\\Tarker.Booking.External.csproj|c:\\rdata\\projects\\.net\\tarker.booking\\src\\tarker.booking.external\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{112087D1-34EA-4D86-82BA-88714960D4E6}|src\\Tarker.Booking.External\\Tarker.Booking.External.csproj|solutionrelative:src\\tarker.booking.external\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2EDD4EF-E975-449B-AFC7-C38918E936D0}|src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj|c:\\rdata\\projects\\.net\\tarker.booking\\src\\tarker.booking.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2EDD4EF-E975-449B-AFC7-C38918E936D0}|src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj|solutionrelative:src\\tarker.booking.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3597254-9417-4EB6-9C2A-76DF0110FC4C}|src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj|c:\\rdata\\projects\\.net\\tarker.booking\\src\\tarker.booking.persistence\\database\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3597254-9417-4EB6-9C2A-76DF0110FC4C}|src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj|solutionrelative:src\\tarker.booking.persistence\\database\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3597254-9417-4EB6-9C2A-76DF0110FC4C}|src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj|c:\\rdata\\projects\\.net\\tarker.booking\\src\\tarker.booking.persistence\\configuration\\bookingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3597254-9417-4EB6-9C2A-76DF0110FC4C}|src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj|solutionrelative:src\\tarker.booking.persistence\\configuration\\bookingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3597254-9417-4EB6-9C2A-76DF0110FC4C}|src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj|c:\\rdata\\projects\\.net\\tarker.booking\\src\\tarker.booking.persistence\\configuration\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3597254-9417-4EB6-9C2A-76DF0110FC4C}|src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj|solutionrelative:src\\tarker.booking.persistence\\configuration\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3597254-9417-4EB6-9C2A-76DF0110FC4C}|src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj|c:\\rdata\\projects\\.net\\tarker.booking\\src\\tarker.booking.persistence\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3597254-9417-4EB6-9C2A-76DF0110FC4C}|src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj|solutionrelative:src\\tarker.booking.persistence\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43F582F-0A1D-4E74-BCCE-5D9E002B03F9}|src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj|c:\\rdata\\projects\\.net\\tarker.booking\\src\\tarker.booking.domain\\enums\\bookingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D43F582F-0A1D-4E74-BCCE-5D9E002B03F9}|src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj|solutionrelative:src\\tarker.booking.domain\\enums\\bookingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43F582F-0A1D-4E74-BCCE-5D9E002B03F9}|src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj|c:\\rdata\\projects\\.net\\tarker.booking\\src\\tarker.booking.domain\\entities\\booking\\bookingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D43F582F-0A1D-4E74-BCCE-5D9E002B03F9}|src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj|solutionrelative:src\\tarker.booking.domain\\entities\\booking\\bookingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43F582F-0A1D-4E74-BCCE-5D9E002B03F9}|src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj|c:\\rdata\\projects\\.net\\tarker.booking\\src\\tarker.booking.domain\\entities\\customer\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D43F582F-0A1D-4E74-BCCE-5D9E002B03F9}|src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj|solutionrelative:src\\tarker.booking.domain\\entities\\customer\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43F582F-0A1D-4E74-BCCE-5D9E002B03F9}|src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj|c:\\rdata\\projects\\.net\\tarker.booking\\src\\tarker.booking.domain\\entities\\user\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D43F582F-0A1D-4E74-BCCE-5D9E002B03F9}|src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj|solutionrelative:src\\tarker.booking.domain\\entities\\user\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,24 +46,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DataBaseService.cs",
+              "DocumentMoniker": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\DataBase\\DataBaseService.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Persistence\\DataBase\\DataBaseService.cs",
+              "ToolTip": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\DataBase\\DataBaseService.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.Persistence\\DataBase\\DataBaseService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T21:59:14.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDataBaseService.cs",
+              "DocumentMoniker": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Application\\DataBase\\IDataBaseService.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Application\\DataBase\\IDataBaseService.cs",
+              "ToolTip": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Application\\DataBase\\IDataBaseService.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.Application\\DataBase\\IDataBaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T21:57:32.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Application\\Configuration\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Application\\Configuration\\MapperProfile.cs",
+              "ToolTip": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Application\\Configuration\\MapperProfile.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.Application\\Configuration\\MapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T21:53:32.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "DependencyInjectionService.cs",
               "DocumentMoniker": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\DependencyInjectionService.cs",
               "RelativeDocumentMoniker": "src\\Tarker.Booking.Persistence\\DependencyInjectionService.cs",
               "ToolTip": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\DependencyInjectionService.cs",
               "RelativeToolTip": "src\\Tarker.Booking.Persistence\\DependencyInjectionService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-30T21:43:07.061Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DependencyInjectionService.cs",
               "DocumentMoniker": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.External\\DependencyInjectionService.cs",
               "RelativeDocumentMoniker": "src\\Tarker.Booking.External\\DependencyInjectionService.cs",
@@ -100,20 +115,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DependencyInjectionService.cs",
               "DocumentMoniker": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Application\\DependencyInjectionService.cs",
               "RelativeDocumentMoniker": "src\\Tarker.Booking.Application\\DependencyInjectionService.cs",
               "ToolTip": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Application\\DependencyInjectionService.cs",
               "RelativeToolTip": "src\\Tarker.Booking.Application\\DependencyInjectionService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-30T21:40:47.284Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "DependencyInjectionService.cs",
               "DocumentMoniker": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Common\\DependencyInjectionService.cs",
               "RelativeDocumentMoniker": "src\\Tarker.Booking.Common\\DependencyInjectionService.cs",
@@ -126,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "DependencyInjectionService.cs",
               "DocumentMoniker": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Api\\DependencyInjectionService.cs",
               "RelativeDocumentMoniker": "src\\Tarker.Booking.Api\\DependencyInjectionService.cs",
@@ -139,132 +154,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\Tarker.Booking.Api\\appsettings.json",
-              "ToolTip": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Api\\appsettings.json",
-              "RelativeToolTip": "src\\Tarker.Booking.Api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-20T04:13:03.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Api\\Program.cs",
               "RelativeDocumentMoniker": "src\\Tarker.Booking.Api\\Program.cs",
               "ToolTip": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Api\\Program.cs",
               "RelativeToolTip": "src\\Tarker.Booking.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T03:57:04.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DataBaseService.cs",
-              "DocumentMoniker": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\DataBase\\DataBaseService.cs",
-              "RelativeDocumentMoniker": "src\\Tarker.Booking.Persistence\\DataBase\\DataBaseService.cs",
-              "ToolTip": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\DataBase\\DataBaseService.cs",
-              "RelativeToolTip": "src\\Tarker.Booking.Persistence\\DataBase\\DataBaseService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAIBJwA4AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T03:42:31.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BookingConfiguration.cs",
-              "DocumentMoniker": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\Configuration\\BookingConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\Tarker.Booking.Persistence\\Configuration\\BookingConfiguration.cs",
-              "ToolTip": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\Configuration\\BookingConfiguration.cs",
-              "RelativeToolTip": "src\\Tarker.Booking.Persistence\\Configuration\\BookingConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T03:32:10.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CustomerConfiguration.cs",
-              "DocumentMoniker": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\Configuration\\CustomerConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\Tarker.Booking.Persistence\\Configuration\\CustomerConfiguration.cs",
-              "ToolTip": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\Configuration\\CustomerConfiguration.cs",
-              "RelativeToolTip": "src\\Tarker.Booking.Persistence\\Configuration\\CustomerConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T03:29:58.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserConfiguration.cs",
-              "DocumentMoniker": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\Configuration\\UserConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\Tarker.Booking.Persistence\\Configuration\\UserConfiguration.cs",
-              "ToolTip": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\Configuration\\UserConfiguration.cs",
-              "RelativeToolTip": "src\\Tarker.Booking.Persistence\\Configuration\\UserConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T03:26:46.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BookingType.cs",
-              "DocumentMoniker": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Enums\\BookingType.cs",
-              "RelativeDocumentMoniker": "src\\Tarker.Booking.Domain\\Enums\\BookingType.cs",
-              "ToolTip": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Enums\\BookingType.cs",
-              "RelativeToolTip": "src\\Tarker.Booking.Domain\\Enums\\BookingType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T00:38:29.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BookingEntity.cs",
-              "DocumentMoniker": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Entities\\Booking\\BookingEntity.cs",
-              "RelativeDocumentMoniker": "src\\Tarker.Booking.Domain\\Entities\\Booking\\BookingEntity.cs",
-              "ToolTip": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Entities\\Booking\\BookingEntity.cs",
-              "RelativeToolTip": "src\\Tarker.Booking.Domain\\Entities\\Booking\\BookingEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T00:36:10.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CustomerEntity.cs",
-              "DocumentMoniker": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Entities\\Customer\\CustomerEntity.cs",
-              "RelativeDocumentMoniker": "src\\Tarker.Booking.Domain\\Entities\\Customer\\CustomerEntity.cs",
-              "ToolTip": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Entities\\Customer\\CustomerEntity.cs",
-              "RelativeToolTip": "src\\Tarker.Booking.Domain\\Entities\\Customer\\CustomerEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T00:34:57.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UserEntity.cs",
-              "DocumentMoniker": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Entities\\User\\UserEntity.cs",
-              "RelativeDocumentMoniker": "src\\Tarker.Booking.Domain\\Entities\\User\\UserEntity.cs",
-              "ToolTip": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Entities\\User\\UserEntity.cs",
-              "RelativeToolTip": "src\\Tarker.Booking.Domain\\Entities\\User\\UserEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T00:30:18.529Z",
               "EditorCaption": ""
             }
           ]
