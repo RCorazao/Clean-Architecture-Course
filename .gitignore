@@ -482,3 +482,7 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+/src/Tarker.Booking.Api/obj
+*.cache
+*.txt
+*.exe
