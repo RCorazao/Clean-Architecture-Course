@@ -1,4 +1,6 @@
 ﻿using AutoMapper;
+using Tarker.Booking.Application.DataBase.User.Commands.CreateUser;
+using Tarker.Booking.Domain.Entities.User;
 
 
 namespace Tarker.Booking.Application.Configuration
@@ -7,6 +9,7 @@ namespace Tarker.Booking.Application.Configuration
     {
         public MapperProfile()
         {
+            CreateMap<UserEntity, CreateUserModel>().ReverseMap();
         }
     }
 }
