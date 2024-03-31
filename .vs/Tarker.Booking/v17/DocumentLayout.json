@@ -155,7 +155,7 @@
               "RelativeDocumentMoniker": "src\\Tarker.Booking.Application\\DependencyInjectionService.cs",
               "ToolTip": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Application\\DependencyInjectionService.cs",
               "RelativeToolTip": "src\\Tarker.Booking.Application\\DependencyInjectionService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-30T21:40:47.284Z",
               "EditorCaption": ""
@@ -195,7 +195,8 @@
               "RelativeToolTip": "src\\Tarker.Booking.Api\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T03:57:04.015Z"
+              "WhenOpened": "2024-03-20T03:57:04.015Z",
+              "EditorCaption": ""
             }
           ]
         }
