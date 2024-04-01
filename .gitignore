@@ -486,3 +486,5 @@ $RECYCLE.BIN/
 *.cache
 *.txt
 *.exe
+/.vs/Tarker.Booking/v17
+/.vs
