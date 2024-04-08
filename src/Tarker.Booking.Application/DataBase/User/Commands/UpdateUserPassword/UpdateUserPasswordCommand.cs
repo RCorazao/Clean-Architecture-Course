@@ -13,7 +13,7 @@ namespace Tarker.Booking.Application.DataBase.User.Commands.UpdateUserPassword
             _dataBaseService = dataBaseService;
         }
 
-        public async Task<bool> Excecute(UpdateUserPasswordModel model)
+        public async Task<bool> Execute(UpdateUserPasswordModel model)
         {
             var entity = await _dataBaseService.User.FirstOrDefaultAsync(p => p.UserId == model.UserId);
             if (entity == null) 
