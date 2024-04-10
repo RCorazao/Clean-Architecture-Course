@@ -4,6 +4,9 @@ using Tarker.Booking.Application.Configuration;
 using Tarker.Booking.Application.DataBase.Customer.Commands.CreateCustomer;
 using Tarker.Booking.Application.DataBase.Customer.Commands.DeleteCustomer;
 using Tarker.Booking.Application.DataBase.Customer.Commands.UpdateCustomer;
+using Tarker.Booking.Application.DataBase.Customer.Queries.GetAllCustomer;
+using Tarker.Booking.Application.DataBase.Customer.Queries.GetCustomerByDocumentNumber;
+using Tarker.Booking.Application.DataBase.Customer.Queries.GetCustomerById;
 using Tarker.Booking.Application.DataBase.User.Commands.CreateUser;
 using Tarker.Booking.Application.DataBase.User.Commands.DeleteUser;
 using Tarker.Booking.Application.DataBase.User.Commands.UpdateUser;
@@ -39,6 +42,9 @@ namespace Tarker.Booking.Application
             services.AddTransient<ICreateCustomerCommand, CreateCustomerCommand>();
             services.AddTransient<IUpdateCustomerCommand, UpdateCustomerCommand>();
             services.AddTransient<IDeleteCustomerCommand, DeleteCustomerCommand>();
+            services.AddTransient<IGetAllCustomerQuery, GetAllCustomerQuery>();
+            services.AddTransient<IGetCustomerByIdQuery, GetCustomerByIdQuery>();
+            services.AddTransient<IGetCustomerByDocumentNumberQuery, GetCustomerByDocumentNumberQuery>();
             #endregion
 
             return services;
