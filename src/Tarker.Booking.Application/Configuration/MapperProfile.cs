@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Tarker.Booking.Application.DataBase.Bookings.Commands.CreateBooking;
 using Tarker.Booking.Application.DataBase.Customer.Commands.CreateCustomer;
 using Tarker.Booking.Application.DataBase.Customer.Commands.UpdateCustomer;
 using Tarker.Booking.Application.DataBase.Customer.Queries.GetAllCustomer;
@@ -9,6 +10,7 @@ using Tarker.Booking.Application.DataBase.User.Commands.UpdateUser;
 using Tarker.Booking.Application.DataBase.User.Queries.GetAllUser;
 using Tarker.Booking.Application.DataBase.User.Queries.GetUserById;
 using Tarker.Booking.Application.DataBase.User.Queries.GetUserByUserNameAndPassword;
+using Tarker.Booking.Domain.Entities.Booking;
 using Tarker.Booking.Domain.Entities.Customer;
 using Tarker.Booking.Domain.Entities.User;
 
@@ -33,6 +35,10 @@ namespace Tarker.Booking.Application.Configuration
             CreateMap<CustomerEntity, GetAllCustomerModel>().ReverseMap();
             CreateMap<CustomerEntity, GetCustomerByIdModel>().ReverseMap();
             CreateMap<CustomerEntity, GetCustomerByDocumentNumberModel>().ReverseMap();
+            #endregion
+
+            #region Booking
+            CreateMap<BookingEntity, CreateBookingModel>().ReverseMap();
             #endregion
         }
     }
