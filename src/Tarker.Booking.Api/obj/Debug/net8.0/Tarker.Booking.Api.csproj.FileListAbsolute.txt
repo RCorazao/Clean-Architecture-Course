@@ -141,3 +141,4 @@ C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\re
 C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\Tarker.Booking.Api.pdb
 C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\Tarker.Booking.Api.genruntimeconfig.cache
 C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\ref\Tarker.Booking.Api.dll
+C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\Tarker.Booking.Api.MvcApplicationPartsAssemblyInfo.cs
