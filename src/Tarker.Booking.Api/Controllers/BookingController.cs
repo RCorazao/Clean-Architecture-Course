@@ -39,10 +39,14 @@ namespace Tarker.Booking.Api.Controllers
         }
 
         [HttpGet("get/{type}")]
-        public async Task<IActionResult> GetById(
+        public async Task<IActionResult> GetByType(
             string type,
             [FromServices] IGetBookingsByTypeQuery getBookingsByTypeQuery)
         {
+            if (String.IsNullOrEmpty(type))
+                return StatusCode(StatusCodes.Status400BadRequest,
+                    ResponseApiService.Response(StatusCodes.Status400BadRequest));
+
             var data = await getBookingsByTypeQuery.Execute(type);
             if (data == null)
                 return StatusCode(StatusCodes.Status404NotFound,
@@ -57,6 +61,10 @@ namespace Tarker.Booking.Api.Controllers
             string documentNumber,
             [FromServices] IGetBookingsByDocumentNumberQuery getBookingsByDocumentNumberQuery)
         {
+            if (String.IsNullOrEmpty(documentNumber))
+                return StatusCode(StatusCodes.Status400BadRequest,
+                    ResponseApiService.Response(StatusCodes.Status400BadRequest));
+
             var data = await getBookingsByDocumentNumberQuery.Execute(documentNumber);
             if (data == null)
                 return StatusCode(StatusCodes.Status404NotFound,

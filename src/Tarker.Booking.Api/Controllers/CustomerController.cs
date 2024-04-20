@@ -88,10 +88,14 @@ namespace Tarker.Booking.Api.Controllers
         }
 
         [HttpGet("get-by-document-number/{documentNumber}")]
-        public async Task<IActionResult> GetByUserNamePassword(
+        public async Task<IActionResult> GetByDocumentNumber(
             string documentNumber,
             [FromServices] IGetCustomerByDocumentNumberQuery getCustomerByDocumentNumberQuery)
         {
+            if (String.IsNullOrEmpty(documentNumber))
+                return StatusCode(StatusCodes.Status400BadRequest,
+                    ResponseApiService.Response(StatusCodes.Status400BadRequest));
+
             var data = await getCustomerByDocumentNumberQuery.Execute(documentNumber);
             if (data == null)
                 return StatusCode(StatusCodes.Status404NotFound,
