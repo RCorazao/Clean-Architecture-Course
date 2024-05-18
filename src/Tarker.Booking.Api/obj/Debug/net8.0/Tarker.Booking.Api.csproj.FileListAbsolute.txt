@@ -144,3 +144,8 @@ C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\re
 C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\Tarker.Booking.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\FluentValidation.dll
 C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\Tarker.Booking.Api.xml
+C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\RData\Projects\.Net\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
