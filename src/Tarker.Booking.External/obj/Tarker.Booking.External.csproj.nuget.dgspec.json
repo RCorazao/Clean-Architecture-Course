@@ -4,14 +4,104 @@
     "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj": {}
   },
   "projects": {
-    "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj": {
+    "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
-        "projectName": "Tarker.Booking.External",
-        "projectPath": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
+        "projectUniqueName": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj",
+        "projectName": "Tarker.Booking.Application",
+        "projectPath": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.External\\obj\\",
+        "outputPath": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj": {
+                "projectPath": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj",
+        "projectName": "Tarker.Booking.Domain",
+        "projectPath": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,7 +138,79 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
+        "projectName": "Tarker.Booking.External",
+        "projectPath": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.External\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj": {
+                "projectPath": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "Microsoft.Extensions.Configuration.Abstractions": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -56,6 +218,10 @@
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
               "version": "[8.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.5.1, )"
             }
           },
           "imports": [

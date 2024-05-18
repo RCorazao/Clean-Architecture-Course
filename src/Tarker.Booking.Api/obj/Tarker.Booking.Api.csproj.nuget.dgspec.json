@@ -347,7 +347,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj": {
+                "projectPath": "C:\\RData\\Projects\\.Net\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -365,6 +369,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "Microsoft.Extensions.Configuration.Abstractions": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -372,6 +380,10 @@
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
               "version": "[8.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.5.1, )"
             }
           },
           "imports": [
